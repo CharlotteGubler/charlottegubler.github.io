@@ -45,7 +45,7 @@
 	});
 
 	$(function() {
-		
+		return
 		var $window = $(window),
 			$body = $('body'),
 			$banner = $('#banner'),
